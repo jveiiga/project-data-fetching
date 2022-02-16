@@ -1,8 +1,6 @@
 <h1 align="center">Project Data Fetching - Projeto criado na maratona Rocketseat 🚀</h1>
 <h4 align="justify">A maratona Rocketseat é gratuita, voltada para profissionais, estudantes e para todo mundo que quer aprender mais sobre front-end.</h4>
 
-<h2 align="center"><a href="">Clique aqui para ver meu projeto final!</a></h2>
-
 ## 💻 Linguagens, tecnologias e libs utilizadas
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
