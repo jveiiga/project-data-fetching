@@ -55,26 +55,10 @@
 
 ## 📂 Referencias
   <details>
-    <summary>Aula 01</summary>
+    <summary>Aula #009</summary>
       - <a href="https://vitejs.dev/guide/">Getting Started com Vite</a> <br>
       - <a href="https://www.typescriptlang.org/docs/handbook/2/generics.html">Generics - TypeScript</a> <br>
       - <a href="https://react-query.tanstack.com/">React Query - Stale While Revalidate</a> <br>
       
   </details>
-  <details>
-    <summary>Aula 02</summary>
-      
-  </details>
-  <details>
-    <summary>Aula 03</summary>
-      
-  </details>
-  <details>
-    <summary>Aula 04</summary>
-      
-  </details>
-  <details>
-    <summary>Aula 05</summary>
-     
-  </details>
-
+  
