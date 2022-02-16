@@ -3,11 +3,6 @@
 
 <h2 align="center"><a href="">Clique aqui para ver meu projeto final!</a></h2>
 
-
-## 📺 Imagem
-
-
-
 ## 💻 Linguagens, tecnologias e libs utilizadas
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -35,8 +30,6 @@
     - Rodar aplicativo
     $ npm run dev
 
-<a href="styled-components.md">Example app with styled-components</a>
-
 ## 👨‍🏫 Instrutor
 
 - <a href="https://github.com/diego3g">Diego Fernandes</a> 
@@ -52,35 +45,13 @@
   - Pesquisar boas práticas com React, Vite e TypeScript.
   
 ## 📚 Desafios
-  - Aula 01
+  - Decode #009
     - [x] Pegar os dados da API do GitHub;
     - [x] Utilizar a lib axios para fazer o fetch;
     - [x] Construir componentes com APIs bem definidas, consistentes e reutilizáveis;
     - [x] Utilizar generics e tipagem dinâmica;
     - [x] Separar e organizar o seu código;
-    - [x] Rotas com React Router Dom 
-    - [ ] Publicar o seu projeto;
-    - [ ] Deixar o seu projeto com a sua cara;
-  - Aula 02
-    - [x] 
-    - [x] 
-    - [x] 
-    - [x] 
-    - [x] 
-  - Aula 03
-    - [x] 
-    - [x] 
-    - [x] 
-    - [x] 
-  - Aula 04
-    - [x] 
-    - [x] 
-    - [x] 
-  - Aula 05
-    - [x] 
-    - [x] 
-    - [x] 
-    - [x] 
+    - [x] Rotas com React Router Dom.
 
 ## 📂 Referencias
   <details>
