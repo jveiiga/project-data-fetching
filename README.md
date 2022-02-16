@@ -19,9 +19,10 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 ## Funcionalidades
-  - tratamento de erros e utilização de estados de carregamento.   
+  - Utilização de status de carregamento. 
+  - Redução de requisições pelo tempo que o usuário permanece utilizando a aplicação atual.
 
-Aproveita e deixa algum comentário sobre o projeto ou alguma sugestão!(será muito bem-vinda).
+<h3>Aproveita e deixa algum comentário sobre o projeto ou alguma sugestão!(será muito bem-vinda).</h3>
 
 ## Instalação
 
@@ -40,10 +41,11 @@ Aproveita e deixa algum comentário sobre o projeto ou alguma sugestão!(será m
 
 - <a href="https://github.com/diego3g">Diego Fernandes</a> 
 
-## 📚 Pesquisar/Aprender
+## 📚 Aprendizagem
 
-  - Entender melhor como funciona a ligação entre as paginas,
-  - 'Puxar' o resultado do API para outras paginas,
+  - 'Puxar' o resultado da API com React Query,
+  - Carregamento de listas com staleTime para evitar o uso excesivo de requisições com React Query, 
+  - Entender melhor como funciona a ligação entre as páginas com React Route Dom,
   - Organizar melhor os arquivos,
   - Entender como a acessibilidade funciona no React (encontrei alguns desafios nessa parte),
   - Componentizar melhor as tag para fazer com que as paginas tenham menos informações,
@@ -56,6 +58,7 @@ Aproveita e deixa algum comentário sobre o projeto ou alguma sugestão!(será m
     - [x] Construir componentes com APIs bem definidas, consistentes e reutilizáveis;
     - [x] Utilizar generics e tipagem dinâmica;
     - [x] Separar e organizar o seu código;
+    - [x] Rotas com React Router Dom 
     - [ ] Publicar o seu projeto;
     - [ ] Deixar o seu projeto com a sua cara;
   - Aula 02
