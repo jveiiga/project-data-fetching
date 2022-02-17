@@ -15,7 +15,6 @@
   - Utilização de status de carregamento. 
   - Redução de requisições pelo tempo que o usuário permanece utilizando a aplicação atual.
 
-<h3>Aproveita e deixa algum comentário sobre o projeto ou alguma sugestão!(será muito bem-vinda).</h3>
 
 ## Instalação
 
