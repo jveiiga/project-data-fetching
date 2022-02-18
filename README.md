@@ -10,6 +10,8 @@
 <a href="https://www.typescriptlang.org/docs/handbook/2/generics.html" target="_blank"><img src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" alt="typescript" width="40" height="40" max-width="100%"> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://miro.medium.com/max/400/1*Yt_kxgaoVwFX_lO3lwZPlg.png" alt="nodejs" width="40" height="40"/> </a>  
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://fknop.gallerycdn.vsassets.io/extensions/fknop/vscode-npm/3.3.0/1474455291139/Microsoft.VisualStudio.Services.Icons.Default" alt="npm" width="60" height="40"/> </a>
+  
 
 ## Funcionalidades
   - Utilização de status de carregamento. 
